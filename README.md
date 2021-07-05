@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ems1795
 - 👀 I’m interested in Python and C#
 - 🌱 I’m currently learning Unity
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me emsal.citil@gmail.com
 
 <!---
